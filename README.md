@@ -11,7 +11,7 @@ Após o termino deste processo, efetue a instalação do pacote "iozone3"com o c
 
 É possível executar o IOzone com os testes a serem realizadas de acordo com o que deseja-se obter isoladamente via linha de comando como as operações (leitura, escrita, taxa de transferência, etc...). Contudo, para automatizar o processo de testes foi gerado um script tanto para os teste de carga (Código-fonte 1) quanto para os testes de taxa de transferência (Código-fonte 2). Crie um arquivo com o nome "script1"em um diretório ao qual tenha permissão de acesso e insira o conteúdo do Código-fonte 1. Por exemplo:
 
-#nano /tmp/script1.sh
+#nano /tmp/script_disco.sh
 
 Atribua permissão de execução ao arquivo:
 
