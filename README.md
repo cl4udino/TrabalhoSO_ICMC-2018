@@ -1,4 +1,5 @@
-# TrabalhoSO_ICMC-2018
+# Trabalho SO 2018 - ICMC - Grupo 01
+Integrantes: Antonio Marcos Almeida Ferreira, Alef Vinicius Cardoso e Luis Henrique Claudino Silva
 
 O Linux trabalha com o conceito de repositórios de software, o que facilita a instalação de softwares e a atualização do próprio sistema operacional. Visto que, todos seus pacotes são disponibilizados nesses repositórios. Por isso, antes de efetuar a instalação do IOzone, atualize o repositório da distribuição linux, abra o terminal e execute o comando:
 
